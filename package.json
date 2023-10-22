@@ -1,0 +1,17 @@
+{
+  "name": "cas_das_.net_23",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiansany/CAS_DAS_.NET_23.git"
+  },
+  "author": "Christian Sany",
+  "license": "ISC",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
